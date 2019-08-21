@@ -1,0 +1,103 @@
+	body{
+	background-color: #87CEEB;
+	}
+
+	main{
+		margin: 10px auto;
+		width: 960px;
+		height: auto;
+		background-color: #008B8B; 
+		padding: 5px 10px;
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+
+	header{ 
+		height: 150px; 
+		text-align: center;
+		padding: 5px;
+		margin-top:10px;
+		margin-bottom:10px;
+		background-color: #F0E68C;
+	}
+
+	nav {
+		height: 35px;
+		background-color: #FFD700;
+		text-align: center;
+		margin-top:10px;
+		margin-bottom:10px;
+		
+	}
+
+	#noticias{
+	   height: auto;
+	   background-color: #F8F8FF;
+	   display: table;
+	   
+
+	}
+
+	footer{
+	height: 50px;
+	background-color: #40E0D0;
+	text-align: center;
+	padding: 5px;
+	margin-top:10px;
+    margin-bottom:10px;
+
+	}
+
+	#Texto01{
+		width: 280px;
+		padding: 5px;
+		margin-left: 10px;
+		background-color:#FFD700;
+		margin-top:10px; 
+		margin-bottom:10px;
+        float: left; 
+
+	}
+
+
+	#Texto02{
+		width: 280px;
+		padding: 5px;
+		margin-left: 10px;
+		background-color:#FFD700;
+		margin-top:10px; 
+		margin-bottom:10px;
+		float: left;
+	}
+
+	#Texto03{
+	 width: 300px;
+     padding: 5px;
+     margin-left: 10px;
+     background-color:#FFD700;
+     margin-top:10px; 
+	 margin-bottom:10px;	
+     float: left;
+	}
+
+	#Texto04{
+      width: 920px;
+	  padding: 10px;
+	  background-color:#FFD700;	
+	  margin: 10px;
+	  float:left;
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+
+	}
+
+	#paragrafo{
+
+
+	}
+
+   #escola{
+ height: 150px
+ width: 300px;
+ float: left;
+   }
